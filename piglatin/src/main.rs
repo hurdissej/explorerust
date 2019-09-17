@@ -14,7 +14,7 @@ fn main() {
             result.push_str(&input[num+1..]);
             result.push_str("-");
             result.push(letter);
-            result.push_str("ay");
+            result.push_str("ay"); 
             break;
         }
     }
